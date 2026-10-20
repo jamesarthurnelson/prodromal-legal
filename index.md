@@ -4,13 +4,13 @@ title: Prodromal Privacy Policy
 
 # Prodromal Privacy Policy (DRAFT — needs legal review before publishing)
 
-**Last updated:** October 19, 2026
+**Last updated:** October 20, 2026
 
 > **This is a first draft, not a finished legal document.** It accurately describes what the app currently does, based directly on its source code, and all the business-specific details (entity name, contact, retention, age limit, jurisdiction) reflect answers you provided — but none of it has been reviewed by a lawyer. Given this app collects a self-reported movement-disorder diagnosis and Apple Health data, get that review before this is published, linked from the App Store, or shown to real users.
 
 ## Who this policy covers
 
-This policy describes how Prodromal ("the app," "we," "us") collects, uses, and stores information when you use the app. Prodromal is an investigational research tool for tracking movement, speech, and facial-expressiveness signals related to Parkinson's disease and related movement disorders. **It is not a medical device, has not been cleared by the FDA, and is not intended to diagnose, treat, cure, or prevent any medical condition.**
+This policy describes how Prodromal ("the app," "we," "us") collects, uses, and stores information when you use the app. Prodromal is a disease management tool designed to help you track motor agility and vocal stability over time. **It is not an IRB-approved research study, it is not a medical device, has not been cleared by the FDA, and is not intended to diagnose, treat, cure, or prevent any medical condition.**
 
 **Developer / data controller:** Lumina Acquisitions LLC (James Nelson III)
 **Contact:** jamesarthurnelson@gmail.com
@@ -19,7 +19,7 @@ This policy describes how Prodromal ("the app," "we," "us") collects, uses, and 
 
 ### Information you provide directly
 - **Sign in with Apple identity.** We use your Apple-issued identity to create and secure your account. We request access to your name and email as part of Sign in with Apple, but the app does not read, store, or transmit either — only Apple's opaque identity token is used.
-- **Self-reported clinical information.** During setup, you tell us whether you're tracking general motor fitness or have a diagnosed movement disorder, and if so, which one (Parkinson's disease, multiple system atrophy, essential tremor, progressive supranuclear palsy, or other/unsure). This is stored permanently and used as a label for our research and machine learning work — see "How we use your information" below.
+- **Self-reported clinical information.** During setup, you tell us whether you're tracking general motor fitness or have a diagnosed movement disorder, and if so, which one (Parkinson's disease, multiple system atrophy, essential tremor, progressive supranuclear palsy, or other/unsure). This is stored permanently and used to power the app's internal analytics — see "How we use your information" below.
 
 ### Information collected automatically through the app's tests
 - **Motor and dexterity data:** tap timing and alternating-tap rhythm; on-screen typing keystroke dwell/flight timing (the characters you type are never recorded — only the timing between touches).
@@ -37,7 +37,7 @@ Our backend processes your uploaded data to produce trend scores. These scores, 
 
 - To run the app's core features: screening tests, trend tracking, and your weekly check-in reminder.
 - To generate the PDF research summary you can export and share with a clinician.
-- **To train and validate machine learning models for digital biomarker research.** Your self-reported diagnosis is used as a ground-truth label for this purpose, tied to your account. This is the primary reason the app exists.
+- **To provide you with historical trends and to train our internal analytics to improve the app.** Your self-reported diagnosis (including your cohort status) is tied to your account for this purpose. This data is not part of a formal academic research study.
 - We do not use your information for advertising, and we do not sell or share it with third parties for their own purposes.
 
 ## Where your information is stored
