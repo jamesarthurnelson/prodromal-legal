@@ -6,6 +6,8 @@ title: Prodromal Privacy Policy
 
 **Last updated:** October 20, 2026
 
+See also: [Terms of Service](terms.html)
+
 > **This is a first draft, not a finished legal document.** It accurately describes what the app currently does, based directly on its source code, and all the business-specific details (entity name, contact, retention, age limit, jurisdiction) reflect answers you provided — but none of it has been reviewed by a lawyer. Given this app collects a self-reported movement-disorder diagnosis and Apple Health data, get that review before this is published, linked from the App Store, or shown to real users.
 
 ## Who this policy covers

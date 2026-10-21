@@ -6,6 +6,8 @@ title: Prodromal Terms of Service
 
 **Last updated:** October 20, 2026
 
+See also: [Privacy Policy](index.html)
+
 > **This is a first draft, not a finished legal document.** It needs lawyer review before publishing, especially given the medical-disclaimer and liability-limitation sections below — those are exactly the clauses that protect you if a user claims harm from relying on the app's output. All business-specific decisions (entity, contact, arbitration, liability cap) reflect answers you provided, but none of it has been reviewed by a lawyer.
 
 ## 1. Acceptance of terms
