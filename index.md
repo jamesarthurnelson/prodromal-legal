@@ -42,7 +42,7 @@ Our backend processes your uploaded data to produce trend scores. These scores, 
 
 ## Where your information is stored
 
-Your data is stored on Amazon Web Services (AWS) infrastructure: encrypted in Amazon S3 (server-side encryption, AES-256) and in Amazon DynamoDB. All network communication between the app and our servers uses HTTPS. Your session credential and clinical profile answers are stored on your device in the iOS Keychain, not in plain app storage.
+Your data is stored on Amazon Web Services (AWS) infrastructure: encrypted in Amazon S3 (server-side encryption, AES-256) and in Amazon DynamoDB. All network communication between the app and our servers uses HTTPS. Your session credential and clinical profile answers are stored on your device in the iOS Keychain, not in plain app storage. Our infrastructure provider (AWS) operates under a signed HIPAA Business Associate Addendum for additional data-handling safeguards.
 
 **Data retention:** We retain your data for as long as your account is active. If you delete your account (available anytime in Settings), your data is permanently removed from our servers. There is currently no separate automatic deletion schedule beyond this.
 
